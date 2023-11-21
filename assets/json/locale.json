@@ -1,0 +1,35 @@
+{
+    "commandGenericError": {
+        "pt-BR": "Erro ao tentar executar esse comando"
+    },
+    "commandNotFound": {
+        "pt-BR": "Comando não encontrado"
+    },
+    "userNotInChannel": {
+        "pt-BR": "Você precisa estar em algum canal de voz para executar esse comando"
+    },
+    "soundNotSelected": {
+        "pt-BR": "O áudio não foi selecionado da lista"
+    },
+    "soundNotFound": {
+        "pt-BR": "Áudio não encontrado"
+    },
+    "downloadSoundError": {
+        "pt-BR": "Não foi possível realizar o download do arquivo"
+    },
+    "playSoundError": {
+        "pt-BR": "Não foi possível tocar o áudio"
+    },
+    "playing" : {
+        "pt-BR": "Tocando"
+    },
+    "botNotInChannel": {
+        "pt-BR": "O bot não está neste canal de voz"
+    },
+    "stopSound": {
+        "pt-BR": "O áudio foi parado"
+    },
+    "quit": {
+        "pt-BR": "Tchau!"
+    }
+}

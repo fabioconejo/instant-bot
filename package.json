@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13"
+  },
+  "name": "instant-bot",
+  "description": "Discord bot to play sounds from myinstants.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabioconejo/instant-bot.git"
+  },
+  "author": "Fabio Conejo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabioconejo/instant-bot/issues"
+  },
+  "homepage": "https://github.com/fabioconejo/instant-bot#readme"
+}
